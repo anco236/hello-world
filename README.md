@@ -1,3 +1,3 @@
 # hello-world
-First Repository 
+First Repository.
 This will be my first official commit on GitHub! 
